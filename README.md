@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 https://www.linkedin.com/in/sinan-gerwig/
+s.gerwig.ch@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
